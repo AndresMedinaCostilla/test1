@@ -1,0 +1,14 @@
+﻿  PIA_ProgAv.cpp
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(127,12): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(108,13): warning C4101: 'st': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(315,14): warning C4101: 'st': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(697,20): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1021,32): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1100,31): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1163,31): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1096,9): warning C4101: 'minutechar': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1095,9): warning C4101: 'hourchar': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1159,9): warning C4101: 'minutechar': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1158,9): warning C4101: 'hourchar': variable local sin referencia
+C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\Test_PrograAv_PIA\PIA_ProgAv.cpp(1904,7): warning C4101: 'discard': variable local sin referencia
+  Test_PrograAv_PIA.vcxproj -> C:\Users\medin\OneDrive\Escritorio\ejemplo codigo progra\test progra\Test_PrograAv_PIA\x64\Debug\Test_PrograAv_PIA.exe

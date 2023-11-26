@@ -1,0 +1,4 @@
+   Estatus  Year Month   Day  Hour  Minute               Dueño         Especie/Pet             Mascota                                  Motivo       Teléfono     Costo
+-842150451  2024     2     1    12      30             khtihtj         Nigersaurus       ashjfdsnjklgr                                 awvsvdb       12345678       123
+-842150451  2023    12     8     8       8                sdfg         Nigersaurus            fghnfgjn                                   fgerh       12345678       123
+-842150451  2024    12    29    24      59               ahgqg               tigre                iggy                                 thtjrtj       12345678  124.0000
